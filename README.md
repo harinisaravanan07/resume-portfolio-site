@@ -1,4 +1,4 @@
-# Resume pertfolio site 
+# Resume p0rtfolio site 
 
 This project contains the exported HTML file of a website created using **Wix Website Builder**. It serves as a static snapshot of the live website and is intended for archival or documentation purposes.
 
