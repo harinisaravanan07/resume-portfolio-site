@@ -1,5 +1,4 @@
-# resume-portfolio-site
-# My Site 1 - Wix-Based Web Page
+# Resume pertfolio site 
 
 This project contains the exported HTML file of a website created using **Wix Website Builder**. It serves as a static snapshot of the live website and is intended for archival or documentation purposes.
 
